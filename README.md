@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Supun</h1>
-<h3 align="center">Software Engineer Undergraduate</h3>
+<h3 align="center">Undergraduate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it22602114&label=Profile%20views&color=0e75b6&style=flat" alt="it22602114" /> </p>
 
